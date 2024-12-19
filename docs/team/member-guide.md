@@ -29,7 +29,7 @@ In this respect, we are using:
 2. The [Discourse forum](https://discourse.jupyter.org/) for general discussions, support
 questions, or just as a place where we can inspire each other.
 3. The [Gitter channel](https://app.gitter.im/#/room/#jupyterlab_jupyterlab:gitter.im) for discussions and support questions.
-4. The [Jupyter Frontends Council mailing list](https://groups.google.com/u/1/g/jupyterlab-council) for discussing membership, none-public questions,... .
+4. The [Jupyter Frontends Council mailing list](https://groups.google.com/u/1/g/jupyterlab-council) for discussing membership, non-public questions,... .
 
 ## How can I help?
 
